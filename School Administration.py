@@ -8,7 +8,6 @@ def write_into_csv(info_list):
             
          writer.writerow["Name","Age","Contact Number","E-Mail ID"]
          writer.writerow(info_list)  
-#if__name__ == '__main__'
 
 condition= True
 student_num = 1
